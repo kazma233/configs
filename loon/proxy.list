@@ -1,0 +1,15 @@
+# discord
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.com
+
+# bsky
+DOMAIN-SUFFIX,bsky.network
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.social
+
+# patreon
+DOMAIN-SUFFIX,patreonusercontent.com
+DOMAIN-SUFFIX,patreon.com
+
+# other
+DOMAIN-SUFFIX,instances.social
