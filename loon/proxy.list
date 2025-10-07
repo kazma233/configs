@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
 
 # bsky
 DOMAIN-SUFFIX,bsky.network
