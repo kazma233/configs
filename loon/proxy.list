@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,patreon.com
 
 # other
 DOMAIN-SUFFIX,instances.social
-DOMAIN,kazma.me
+DOMAIN-SUFFIX,kazma.me
 DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,joinmastodon.org
