@@ -1,0 +1,23 @@
+services:
+  jenkins-server:
+    build: 
+      context: ./
+      dockerfile: Dockerfile
+    container_name: jenkins-server
+    restart: on-failure
+    ports:
+      - 7000:8080
+      - 50000:50000
+    volumes:
+      - jenkins_home:/var/jenkins_home
+    networks:
+      - jenkins
+
+networks:
+  jenkins:
+    driver: bridge
+
+volumes:
+  jenkins_home:
+    driver: local
+    name: jenkins_home
