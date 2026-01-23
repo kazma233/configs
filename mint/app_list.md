@@ -15,6 +15,8 @@
 8. Zed
 9. kitty
 10. DBeaver
+11. VirtualBox
+12. Tabby
 
 # 应用
 1. VLC
