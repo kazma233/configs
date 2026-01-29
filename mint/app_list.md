@@ -10,7 +10,7 @@
 3. wezterm
 4. VsCode
 5. opencode
-6. podman
+6. Podman Desktop (flatpak) 
 7. MongoDB Compass
 8. Zed
 9. kitty
