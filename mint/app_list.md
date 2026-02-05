@@ -10,13 +10,14 @@
 3. wezterm
 4. VsCode
 5. opencode
-6. Podman Desktop (flatpak) 
+6. ~~Podman Desktop (flatpak)~~
 7. MongoDB Compass
 8. Zed
 9. kitty
 10. DBeaver
 11. VirtualBox
 12. Tabby
+13. Docker
 
 # 应用
 1. VLC
