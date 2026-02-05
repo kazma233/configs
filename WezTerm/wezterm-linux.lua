@@ -16,5 +16,9 @@ config.font = wezterm.font_with_fallback {
 config.font_size = 18
 config.color_scheme = 'Vs Code Light+ (Gogh)'
 
+# x11 deskptop env and use fcitx
+config.front_end = "WebGpu"
+config.use_ime = true
+
 -- Finally, return the configuration to wezterm:
 return config
