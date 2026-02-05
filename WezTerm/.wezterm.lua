@@ -10,7 +10,7 @@ config.initial_cols = 120
 config.initial_rows = 20
 
 config.font_size = 18
-config.color_scheme = 'ayu'
+config.color_scheme = 'Vs Code Light+ (Gogh)'
 
 -- Finally, return the configuration to wezterm:
 return config
