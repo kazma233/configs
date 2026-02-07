@@ -2,4 +2,4 @@
 
 1. IBus + RIME（升级系统后消失了）
 
-2. Fcitx (在用)
+2. Fcitx5 (在用)
