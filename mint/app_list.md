@@ -34,6 +34,7 @@
   - Firefox
   - FlClash
   - VirtualBox
+  - digikam
 
   # Other
   - fcitx5-rime (apt)
