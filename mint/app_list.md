@@ -11,9 +11,10 @@
   - MongoDB Compass
 
 # Terminal
-  - WezTerm
+  - ~~WezTerm~~
   - Tabby
   - kitty
+  - ~~electerm~~
 
 # Terminal App
   - fnm
@@ -27,7 +28,7 @@
 # APP
   - VLC
   - Telegram
-  - RustDesk
+  - RustDesk(Wayland 支持中)
   - ClashVergeRev
   - Steam
   - Vivaldi
@@ -35,6 +36,9 @@
   - FlClash
   - VirtualBox
   - digikam
+  - Flameshot(火焰截图|store)
+  - CopyQ(store)
+  - rclone(script)
 
   # Other
   - fcitx5-rime (apt)
