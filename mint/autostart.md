@@ -3,7 +3,7 @@
 位于：`~/.config/autostart`下
 
 文件：podman-desktop.desktop
-```
+``` toml
 [Desktop Entry]
 Type=Application
 Exec=/home/kazma/app/podman-desktop/podman-desktop
