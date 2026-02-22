@@ -2,6 +2,7 @@
 # https://www.qemu.org/download/#linux
 sudo apt-get install qemu-system
 sudo apt-get install samba vde2
+sudo apt-get install libvirt-daemon-system
 
 sudo usermod -aG libvirt $USER
 sudo usermod -aG kvm $USER
@@ -12,12 +13,13 @@ sudo systemctl status libvirtd
 
 # https://virt-manager.org
 sudo apt-get install virt-manager
-
 ```
 
 注销下用户，再进来 `virt-manager`,然后去下载镜像根据UI操作即可，默认不用调整什么（越改越烂，如果你不知道改的是什么意思）
 
 显示驱动默认使用非 virtio，后面安装驱动后改用性能更好的这个
+
+没有网络选择,去 编辑-连接详情-创建虚拟网络,自己常见一个NAT网络,注意不要和现有的网段冲突
 
 # 下载安装驱动
 https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers
@@ -27,8 +29,8 @@ https://pve.proxmox.com/wiki/Windows_VirtIO_Drivers
 ```
 sudo apt-get install virgl-server
 sudo apt-get install spice-vdagent
-
 ```
+nvidia 显卡是真难
 
 没解决问题
 
