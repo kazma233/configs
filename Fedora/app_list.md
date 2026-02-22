@@ -16,10 +16,10 @@
 
 # Terminal
   - Tabby
-  - kitty
+  - ～～kitty～～
 
 # Terminal App
-  - fnm
+  - fnm(node)
   - opencode
   - Docker Engine(含compose)
   - 
@@ -28,16 +28,15 @@
   - Zed
 
 # APP
-  - VLC
+  - VLC(store)
   - Telegram
   - RustDesk(Wayland 支持中)
   - ClashVergeRev
-  - Steam
+  - Steam(store)
   - Vivaldi
   - Firefox
-  - FlClash
+  - ～～FlClash～～
   - VirtualBox
-  - digikam
   - Flameshot(火焰截图|store)
-  - CopyQ(store)
+  - ～～CopyQ(store)～～
   - rclone(script)
