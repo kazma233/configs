@@ -7,12 +7,13 @@
 2. list
     - gcc
     - go
-    - uv(ruff)
+    - uv(uv add --dev ruff)
     - python@3.13
 
 # DB GUI
-  - DBeaver
-  - MongoDB Compass
+  - ～～DBeaver～～
+  - ～～MongoDB Compass～～
+  - Datagrip
 
 # Terminal
   - Tabby
@@ -20,6 +21,7 @@
 
 # Terminal App
   - fnm(node)
+  - pnpm
   - opencode
   - Docker Engine(含compose)
   - 
@@ -28,15 +30,16 @@
   - Zed
 
 # APP
-  - VLC(store)
+  - store
+    - VLC
+    - Steam
+    - Flameshot(火焰截图)
+    - ～～CopyQ～～
   - Telegram
   - RustDesk(Wayland 支持中)
   - ClashVergeRev
-  - Steam(store)
   - Vivaldi
   - Firefox
   - ～～FlClash～～
   - VirtualBox
-  - Flameshot(火焰截图|store)
-  - ～～CopyQ(store)～～
   - rclone(script)
