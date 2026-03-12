@@ -23,7 +23,7 @@ ExecStart=/usr/bin/rclone mount remote:/ /mnt/STORE/OneDrive \
   --vfs-read-ahead 128M \
   --cache-dir /mnt/STORE/rclone-cache \
   --log-level INFO \
-  --log-file /tmp/rclone-mount.log \
+  --log-file /mnt/STORE/rclone-logs/rclone-mount.log \
   --dir-cache-time 60m \
   --vfs-fast-fingerprint \
   --poll-interval 30s
@@ -84,7 +84,7 @@ rclone mount remote:/ /mnt/STORE/OneDrive \
   --transfers 8 \
   --cache-dir /mnt/STORE/rclone-cache \
   --log-level INFO \
-  --log-file /tmp/rclone-mount.log \
+  --log-file /mnt/STORE/rclone-logs/rclone-mount.log \
   --daemon
 ```
 

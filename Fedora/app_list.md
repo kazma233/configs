@@ -24,7 +24,9 @@
   - pnpm
   - opencode
   - Docker Engine(含compose)
-  - 
+  - claude code
+  - codex
+  - gemini
 # Editor
   - VsCode
   - Zed
@@ -43,3 +45,5 @@
   - ～～FlClash～～
   - VirtualBox
   - rclone(script)
+  - ollama
+  - cc switch
