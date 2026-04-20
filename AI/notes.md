@@ -11,12 +11,14 @@
 
 1. 一个Codex去写逻辑，另一个AI去review
 2. 如果涉及到多个模块的更改，可以让当前的对话AI作为项目管理者，开启并管理多个subagent去完成任务；管理AI维护一个进度文件，subagent做完了通知管理AI去修改进度文件，最终实现异步完成任务
-3. 
+3. [rtk](https://github.com/rtk-ai/rtk) 节省某些命令的输出，达到节省token的效果
 
 # 感受
 
 1. 使用AI也会强迫让你去思考，因为你怕出错，但是这应该是暂时的
-2. `worktree`的使用，考虑将所有项目放到单个仓库
+2. `worktree`的使用
+   - 将所有项目放到单个仓库 
+   - gitbutler cli + Skills 
 3. 目前写代码仍然是 human in the loop，要人工让AI写设计方案，人工review代码；
    - AI的能力已经不是问题，前提是要有足够的上下文和明确的需求: 目前我们考虑维护好md文档就行，使用 Skills + 分词（jieba）搜索的py脚本 就差不多
    - 测试是让AI写完代码能够直接上线的保障：行为驱动开发（BDD）+ Gherkin 语言
