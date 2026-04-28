@@ -27,7 +27,9 @@
 # 调整
 1. 目前我们的RPC需要先把RPC打包成Jar之后才能调用，需要触发成Jenkins，待编写skills
 
-``` claude
+# calude code
+
+```
 /plugin marketplace add anthropics/claude-code
 /plugin install frontend-design@claude-code-plugins
 ```
