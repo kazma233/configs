@@ -5,3 +5,5 @@
 3. https://github.com/anthropics/skills
 4. https://github.com/github/awesome-copilot
 5. https://github.com/steipete/agent-scripts
+6. https://github.com/tw93/waza
+7. https://github.com/openai/skills
